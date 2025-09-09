@@ -60,3 +60,22 @@ numexpr==2.7.2
 nltk==3.6.6
 urlextract==1.2.0
 
+# 1. Create Github account
+# 2. Install git
+# 3. Configure git
+# 4. Generate SSH key
+# 5. Add SSH key to Github account
+# 6. Test connection
+# 7. Create a new repository on Github (handson-ml-master)
+# 8. Initialize local repository with the project files
+# 9. Add remote repository
+# 10. Push local repository to Github
+# 11. Create and switch to a new branch (feature/requitements) for requirements.txt
+# 12. Edit requirements.txt
+# 13. Stage the changes
+# 14. Commit the changes
+# 15. Push the changes to the remote repository
+# 16. Create a pull request on Github
+# 17. Merge the pull request on Github
+# 18. Switch back to the main branch
+# 19. Pull the latest changes from the remote repository
