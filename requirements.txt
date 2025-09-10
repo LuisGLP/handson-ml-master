@@ -78,4 +78,4 @@ urlextract==1.2.0
 # 16. Create a pull request on Github
 # 17. Merge the pull request on Github
 # 18. Switch back to the main branch
-# 19. Pull the latest changes from the remote repository
+# 19. Pull the latest changes from requirements to the remote repository
