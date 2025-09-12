@@ -1,1 +1,2 @@
 Message from branch B
+Message to branch A
